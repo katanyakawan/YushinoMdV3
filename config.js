@@ -31,20 +31,20 @@ let name = conn.getName(m.sender)*/
     const more = String.fromCharCode(8206)
 const readMore = more.repeat(4001)
 
-      /*============== SOCIAL ==============*/
+      /*============== "_" ==============*/
 
 // kalo ga punya ketik "-" atau biarin aja biar ada creditsnya :v
  // my youtube channel
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ NO OWNER ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
-global.owner = [
+global.owner = ['6285877346651']
 ['6282376267531', 'Aisyah', true],
 ['6281361281833', 'Aldi', true]
 ]
 global.mods = []
 global.prems = []
-global.nomorbot = '6283838186170'
+global.nomorbot = '6285877346651'
 global.nomorown = '6281361281833'
 global.nomorown1 = '6281361281833'
 global.nomorown2 = '6282376267531'
